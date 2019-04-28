@@ -1,1 +1,1 @@
-var receipt = { }
+var recipes = { }
