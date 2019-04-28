@@ -1,1 +1,1 @@
-var object
+var object = {}
