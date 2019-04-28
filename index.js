@@ -6,7 +6,5 @@ function updateObjectWithKeyAndValue(object, key, value) {
 }
 
 updateObjectWithKeyAndValue(obj, 'prop2', 2)
-  var obj = { prop:1 };
-  return obj
   
 
