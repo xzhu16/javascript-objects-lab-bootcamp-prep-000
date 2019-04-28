@@ -6,5 +6,5 @@ function updateObjectWithKeyAndValue(object, key, value) {
 }
 
 updateObjectWithKeyAndValue(obj, 'prop2', 2)
-  
+updateObjectWithKeyAndValue(obj, 'prop2', undefined)
 
